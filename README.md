@@ -9,11 +9,12 @@ Este proyecto contiene el diseño de arquitectura, modelo relacional y especific
 ## 📋 1. Historia de Usuario y Contexto del Cliente
 
 ### Entrevista / Problema Planteado
--La dueña atiende una licorería familiar junto a sus parientes. Comercializa bebidas alcohólicas, gaseosas, dulces y helados.-
-"Hola, miren, tengo mi licorería y la verdad es que se me está haciendo muy difícil llevar la cuenta de todo a mano. Trabajo con mi familia y a veces no sé exactamente qué tenemos o qué falta comprar hasta que la repisa queda vacía.
-Todos los días vendo de todo un poco: desde gaseosas, helados y chocolates, hasta licores caros. La gente me paga en efectivo y mucho por QR. Al final del día (o a la semana), nos sentamos con mi familia a sumar en cuadernos todo lo que vendimos y el dinero que hay en caja para ver cuánto ganamos o si nos falta plata.
+*-La dueña atiende una licorería familiar junto a sus parientes. Comercializa bebidas alcohólicas, gaseosas, dulces y helados.-*
+
+"Hola, miren, tengo mi licorería y la verdad es tardado llevar la cuenta de todo a mano. Trabajo con mi familia y a veces no sé exactamente qué tenemos o qué falta comprar hasta que la repisa queda vacía.
+Todos los días vendo de todo un poco: soda, helados y chocolates, hasta licores caros. La gente me paga en efectivo y mucho por QR. Al final del día (o a la semana), nos sentamos con mi familia a sumar en cuadernos todo lo que vendimos y el dinero que hay en caja para ver cuánto ganamos o si nos falta plata.
 Además, los proveedores de las agencias de cerveza y licores vienen ciertos días, y nos cuesta saber rápido cuánto les debemos o cuánto producto necesitamos pedirles.
-Quiero algo sencillo para registrar las ventas rápido (que no me atrase la atención al cliente) y que al final del día saber cuánto vendí en efectivo, cuánto por QR, qué productos se están terminando y si ganamos plata o no."
+Quiero algo sencillo para registrar las ventas rápido (que no me atrase la atención al cliente) y que al final del día saber cuánto vendí en efectivo, cuánto por QR, qué cosas se están terminando y si ganamos plata o no."
 
 **Puntos de dolor identificados:**
 - **Control manual a papel y lápiz:** El recuento de ganancias, cuadre de caja y control de inventario se hace manualmente al final de la jornada.
