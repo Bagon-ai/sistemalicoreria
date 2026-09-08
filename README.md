@@ -11,9 +11,9 @@ Este proyecto contiene el diseño de arquitectura, modelo relacional y especific
 ### Entrevista / Problema Planteado
 *-La dueña atiende una licorería familiar junto a sus parientes. Comercializa bebidas alcohólicas, gaseosas, dulces y helados.-*
 
-"Hola, miren, tengo mi licorería y la verdad es tardado llevar la cuenta de todo a mano. Trabajo con mi familia y a veces no sé exactamente qué tenemos o qué falta comprar hasta que la repisa queda vacía.
+"Hola, miren, la verdad es tardado llevar la cuenta de todo a mano. Trabajo con mi familia y a veces no sé exactamente qué tenemos o qué falta comprar hasta que la repisa queda vacía.
 Todos los días vendo de todo un poco: soda, helados y chocolates, hasta licores caros. La gente me paga en efectivo y mucho por QR. Al final del día (o a la semana), nos sentamos con mi familia a sumar en cuadernos todo lo que vendimos y el dinero que hay en caja para ver cuánto ganamos o si nos falta plata.
-Además, los proveedores de las agencias de cerveza y licores vienen ciertos días, y nos cuesta saber rápido cuánto les debemos o cuánto producto necesitamos pedirles.
+Además, los proveedores de las agencias de cerveza vienen ciertos días, y nos cuesta saber rápido cuánto les debemos o cuánto producto necesitamos pedirles.
 Quiero algo sencillo para registrar las ventas rápido (que no me atrase la atención al cliente) y que al final del día saber cuánto vendí en efectivo, cuánto por QR, qué cosas se están terminando y si ganamos plata o no."
 
 **Puntos de dolor identificados:**
